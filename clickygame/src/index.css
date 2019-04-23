@@ -8,3 +8,7 @@ html {
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+html {
+  cursor: url(https://www.tactics.com/a/avn9/9/habitat-bobs-burgers-assembled-burger-sticker.webp), auto;
+}

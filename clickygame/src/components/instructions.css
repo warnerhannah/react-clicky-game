@@ -1,6 +1,6 @@
 .inst {
     text-align: center;
-    background-color: grey;
+    /* background-color: grey; */
     color: white;
     padding: 30px;
 }
@@ -13,3 +13,6 @@ h3.inst {
     font-size: 25px;
 }
 
+div.inst {
+    background-image: url("https://i.pinimg.com/originals/a1/f6/fb/a1f6fbd5bdd2da66bd80478f63bacffa.png");
+}
