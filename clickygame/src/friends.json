@@ -52,5 +52,23 @@
         "friend": "Jimmy Pesto", 
         "url": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/32/Jimmy_Pesto.png/revision/latest?cb=20130305162049",
         "clicked": false
+    },
+    {
+        "id": "10",
+        "friend": "Tammy", 
+        "url": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/e9/Tammy_Larsen.jpg/revision/latest?cb=20150721110758",
+        "clicked": false
+    },
+    {
+        "id": "11",
+        "friend": "Zeke", 
+        "url": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/69/Vlcsnap-2013-03-05-10h47m16s100.png/revision/latest?cb=20160227013540",
+        "clicked": false
+    },
+    {
+        "id": "12",
+        "friend": "Marshmallow", 
+        "url": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5b/Marshmellow.jpg/revision/latest?cb=20150717140656",
+        "clicked": false
     }
 ]
