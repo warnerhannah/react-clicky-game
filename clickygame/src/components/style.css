@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.scores {
+    display: flex;
+    justify-content: space-between
+}
+
+header {
+    background-color: slateblue;
+    color: white;
+    padding: 10px 20px;
+}
