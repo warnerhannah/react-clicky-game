@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import friends from './friends.json';
 import Header from "./components/Header"
+import Instructions from "./components/Instructions"
 import "./index.css"
 
 class App extends Component {
@@ -13,7 +14,7 @@ render () {
   return (
     <div>
       <Header />
-      {/* hellok */}
+      <Instructions />
     </div>
   )
 }

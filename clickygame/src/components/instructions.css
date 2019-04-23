@@ -1,0 +1,14 @@
+.inst {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h3.inst {
+    font-size: 25px;
+}
